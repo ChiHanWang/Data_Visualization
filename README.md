@@ -2,7 +2,7 @@
 ### Computer Vision at National Yang Ming Chiao Tung University
 Lecturer: Prof. [Yu-Shuen Wang](https://www.cs.nycu.edu.tw/members/detail/yushuen)
 
-### Assignments
+### Assignments:
 - HW1: Scatter Plots
 
   - My goal is to implement a web-based scatter plot to show the iris dataset by using D3.
