@@ -1,5 +1,5 @@
 # Data_Visualization
-### Computer Vision at National Yang Ming Chiao Tung University
+### Data Visualization at National Yang Ming Chiao Tung University
 Lecturer: Prof. [Yu-Shuen Wang](https://www.cs.nycu.edu.tw/members/detail/yushuen)
 
 ### Assignments:
