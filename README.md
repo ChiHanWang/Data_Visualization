@@ -3,20 +3,18 @@
 Lecturer: Prof. [Yu-Shuen Wang](https://www.cs.nycu.edu.tw/members/detail/yushuen)
 
 ### Assignments:
-- HW1: Scatter Plots
 
+- HW1: Scatter Plots
   - My goal is to implement a web-based scatter plot to show the iris dataset by using D3.
   - Users can determine the x-axis (and y-axis) to show the values of one of the attributes, such as sepal length, sepal width, petal length, and petal width, when interacting with the tool.
   -  Render scatter points in different colors to represent three different flower classes.
 
 - HW2: Parallel Coordinate Plots
-
   - Users can change the order of the axes.
   - The axes are four different attributes such as sepal length, sepal width, petal length, and petal width.
   - Render poly-lines (flower samples: Iris setosa, Iris versicolor and Iris virginica) in different hues to represent three different flower classes.
 
 - HW3: Correlation matrices
-
   - Be tasked with creating three correlation matrices corresponding to the three categories of abalone data: male, female, and infant, utilizing D3.
   - The design facilitates users in swiftly discerning correlations among attributes and in making visual contrasts across the three abalone types.
  
@@ -62,8 +60,10 @@ Lecturer: Prof. [Yu-Shuen Wang](https://www.cs.nycu.edu.tw/members/detail/yushue
   - Users can rearrange the Sankey nodes to declutter the view or focus on specific relationships.
   - When users hover over the bands in the Sankey Diagram, it shows counts between two attributes.
   - [Car Evaluation Data](https://archive.ics.uci.edu/dataset/19/car+evaluation)
+
  
 ### Final Project:
+
 - Covid 19 death toll in the world
   - We aim to gain a deeper understanding of the COVID-19 death toll across regions by creating various visualizations, which will help analyze and compare the trends in death rates during the pandemic.
   - There are three different visual charts displayed on **index.html**.
