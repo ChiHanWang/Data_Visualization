@@ -48,3 +48,17 @@ Lecturer: Prof. [Yu-Shuen Wang](https://www.cs.nycu.edu.tw/members/detail/yushue
   - Users can hover your mouse over a specific stream, and a tooltip will display the corresponding property type for that stream.
   - Users can hover your mouse over a specific property type block to get a zoomed-in effect with additional information about the block.
   - [House Property Sales Time Series](https://www.kaggle.com/datasets/htagholdings/property-sales/)
+ 
+- HW7: Horizon Charts
+  - The Horizon charts show the pollution effect in Seoul.
+  - The data set contains 25 districts in Seoul with 6 different pollutants, creating 150 horizon charts.
+  - Users can choose one of air pollutant to observe the pollution effect of regions in Seoul during 2017-2019.
+  - [Air Pollution in Seoul](https://www.kaggle.com/datasets/bappekim/air-pollution-in-seoul)
+ 
+- HW8: Sankey Diagram
+  - Sankey Diagram displays relationships between the categorical attributes: buying, maintenance, doors, persons, luggage boot, and safety.
+  - The width of the bands in the Sankey Diagram represents the proportion or count of the dataset that holds that relationship.
+  - I use a clear color distinction for different categories, and provide a legend that explains any color or symbol used.
+  - Users can rearrange the Sankey nodes to declutter the view or focus on specific relationships.
+  - When users hover over the bands in the Sankey Diagram, it shows counts between two attributes.
+  - [Car Evaluation Data](https://archive.ics.uci.edu/dataset/19/car+evaluation)
