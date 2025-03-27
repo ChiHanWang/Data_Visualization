@@ -1,0 +1,19 @@
+.draggable {
+    cursor: pointer;
+    -webkit-user-drag: element;
+}
+
+.list-group-item {
+    margin-bottom: 5px;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    padding: 10px;
+    transition: all 0.3s ease;
+}
+
+.list-group-item:hover {
+    opacity: 0.7;
+    transform: scale(1.05);
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);
+}
