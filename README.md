@@ -39,4 +39,12 @@ Lecturer: Prof. [Yu-Shuen Wang](https://www.cs.nycu.edu.tw/members/detail/yushue
     - By overall scores.
     - By each individual criterion (teaching, research, citations, industry income, and international outlook).
     - Both in ascending and descending orders.
-  - [Data Source](https://www.kaggle.com/datasets/ddosad/timesworlduniversityrankings2024)
+  - [Times World University Rankings 2024](https://www.kaggle.com/datasets/ddosad/timesworlduniversityrankings2024)
+
+- HW6: ThemeRiver
+  - The ThemeRiver chart shows how the median prices of different house property types change over time.
+  - The direction of the river is from left to right.
+  - Users can reorder the streams by dragging the different property type blocks.
+  - Users can hover your mouse over a specific stream, and a tooltip will display the corresponding property type for that stream.
+  - Users can hover your mouse over a specific property type block to get a zoomed-in effect with additional information about the block.
+  - [House Property Sales Time Series](https://www.kaggle.com/datasets/htagholdings/property-sales/)
