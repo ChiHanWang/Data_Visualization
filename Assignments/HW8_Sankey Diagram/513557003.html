@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sankey Diagram with Car Data</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css"
+        integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+    <link rel="stylesheet" href="513557003.css" />
+</head>
+
+<body class="text-center">
+    <h1 class="my-3">Sankey Diagram with Car Data</h1>
+    <p>Hi!! You can rearrange the Sankey nodes to declutter the view or focus on specific relationships.
+        <br>When you hover over the bands in the Sankey diagram, it shows counts between two attributes.</p>
+    <p class="my-3">
+        <a href="https://archive.ics.uci.edu/dataset/19/car+evaluation" target="_blank">Data Source : Car Evaluation</a>
+    </p>
+
+    <div class="mx-auto my-3">
+        <svg id="sankey-diagram" width="1000" height="440"></svg>
+    </div>
+
+    <hr class="my-3">
+    <div class="footer" style="font-size: small; color: black;">
+        <p>Name: 王琪涵</p>
+        <p>Student ID: 513557003</p>
+        <p>Date: 2024/11/2</p>
+    </div>
+</body>
+<script src="https://unpkg.com/d3@5.9.2/dist/d3.min.js"></script>
+<script src="513557003.js"></script>
+</html>
