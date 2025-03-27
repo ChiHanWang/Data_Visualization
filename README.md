@@ -62,3 +62,13 @@ Lecturer: Prof. [Yu-Shuen Wang](https://www.cs.nycu.edu.tw/members/detail/yushue
   - Users can rearrange the Sankey nodes to declutter the view or focus on specific relationships.
   - When users hover over the bands in the Sankey Diagram, it shows counts between two attributes.
   - [Car Evaluation Data](https://archive.ics.uci.edu/dataset/19/car+evaluation)
+ 
+### Final Project:
+- Covid 19 death toll in the world
+  - We aim to gain a deeper understanding of the COVID-19 death toll across regions by creating various visualizations, which will help analyze and compare the trends in death rates during the pandemic.
+  - There are three different visual charts displayed on **index.html**.
+  - Charts
+    - Bubble Map: Visualize death rate changes over time in the world.
+    - Line Chart: Track death trends over time by regions.
+    - Bar Chart: Rank regions by death counts over time.
+  - [Covid 19 data](https://github.com/owid/covid-19-data/tree/master)
